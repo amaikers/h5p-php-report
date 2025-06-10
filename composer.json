@@ -4,10 +4,7 @@
   "type": "library",
   "license": "MIT",
   "autoload": {
-    "files": ["h5p-report.class.php"],
-    "classmap": [
-      "."
-    ]
+    "classmap": ["h5p-report.class.php"]
   },
   "require": {}
 }
