@@ -1,0 +1,10 @@
+{
+  "name": "h5p/h5p-php-report",
+  "description": "H5P PHP report library for use with H5P integrations",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "files": ["h5p-php-report.class.php"]
+  },
+  "require": {}
+}
